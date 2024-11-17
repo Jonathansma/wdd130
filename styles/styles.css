@@ -35,6 +35,7 @@ aside {
 aside img{
     width: 200px;
     height: auto;
+p{ padding: 0;}
 }
 main img{
     width: 150px;
